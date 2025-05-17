@@ -1,6 +1,9 @@
+Obs.: caso o app esteja no modo "sleeping" (dormindo) ao entrar, basta clicar no botão que estará disponível e aguardar, para ativar o mesmo. 
+![print](https://github.com/user-attachments/assets/fda62ff0-b19a-49c3-8842-b731c18fa4d2)
+
 # Intervalo Web App
 
-Este é um cronômetro com alarme, desenvolvido usando Streamlit, projetado para ser útil durante intervalos ou para o método Pomodoro. O aplicativo exibe um temporizador, permite a personalização do tempo e possui um som de alarme quando o tempo expira. Ele também pode ser utilizado em diversas situações, como em sessões de estudo ou trabalho.
+Este é um cronômetro com alarme, desenvolvido em Python e Streamlit, projetado para ser útil durante intervalos ou para o método Pomodoro. O aplicativo exibe um temporizador, permite a personalização do tempo e possui um som de alarme quando o tempo expira. Ele também pode ser utilizado em diversas situações, como em sessões de estudo ou trabalho.
 
 ## Funcionalidades
 - **Exibição do cronômetro:** Exibe o tempo restante no formato MM:SS.
